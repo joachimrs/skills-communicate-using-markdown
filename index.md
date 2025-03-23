@@ -13,3 +13,5 @@ and that's it. It does however offer another way to sort content in your section
 \paragraph
 \subparagraph
 Do not add too much clutter and try to keep your files readable. Thanks.
+## Yaktocat is watching you
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
