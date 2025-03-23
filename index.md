@@ -15,3 +15,18 @@ and that's it. It does however offer another way to sort content in your section
 Do not add too much clutter and try to keep your files readable. Thanks.
 ## Yaktocat is watching you
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+### Yaktocat is coding in Javascript
+```javascript
+let yaktocat = "Yaktocad!";
+var amiga = "rules!";
+```
+#### Additionally Yaktocat likes to code in C
+```c
+include <stdio.h>
+
+int main(int argc, char **argv)
+{
+  printf("Number of arguments given for command %s are: %d\n", argv[0], argc);
+  return(0);
+}
+```
