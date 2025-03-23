@@ -1,6 +1,12 @@
 # First try with the biggest heading, comparable to HTMLs H1
 ## Subheading - You will need this, too
 ### Subsubheading - Sometimes useful, but use with care
+How many levels of headings do you think are useful?
+- [ ] Only one! I mean it!
+- [ ] A subsection is useful for ordering information under the main heading
+- [ ] Three is a good choice. You can fine grained order your information for the reader to find easily
+- [ ] Four - because... well - I like headings!
+- [ ] Five! I am cruel and want the reader to be completely confused and tend to put my content into headings instead of paragraphs
 #### So this is the fourth heading type and now it is starting to get complicated to read your document
 ##### With the fifth heading you enter new territory - the territory of TL;DR
 ###### In the sixth heading you can write whatever you like - noone will read this
